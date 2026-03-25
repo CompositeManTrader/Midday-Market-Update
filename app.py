@@ -1,7 +1,6 @@
 import streamlit as st
 from openai import OpenAI
 import datetime
-import pyperclip
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
